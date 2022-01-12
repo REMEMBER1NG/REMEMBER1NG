@@ -1,12 +1,9 @@
 
-### Hello! I am Jonathan Lopes🌹
+# Hello! I am Jonathan Lopes🌹
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_johnyz/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/notAllone0)
+![REMEMBER1NG's GitHub stats](https://github-readme-stats.vercel.app/api?username=REMEMBER1NG&show_icons=true&theme=tokyonight)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=REMEMBER1NG&show_icons=true&theme=tokyonight)
-
-## The technologies i use everyday
+# 🛠️ **The Technologies i Use Everyday**
 
 <div style="display: inline-block;">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -21,6 +18,20 @@
 **Javascript** and **Python** are by far my favourite languages to program in.<br>
 But **Python** was the first programming language that i just fell in love with it,<br>
 pretty weird right? 😜😂
+<br>
 
-## Q: What are your goals for this 2022 year?<br>
-<li><strong>My main goal for this year of 2022 is to learn as much <code>Javascript</code> as i can to create <code>React Native</code> mobile apps.</strong></li>
+# GitHub Analytics
+
+[![REMEMBER1NG's GitHub stats](https://github-readme-stats.vercel.app/api?username=REMEMBER1NG)](https://github.com/anuraghazra/github-readme-stats)
+
+# **Q: What are your goals for this 2022 year?**<br>
+<li><strong>My main goal for this year of 2022 is learn advanced javascript concepts<br>
+  to help me to build <code>Mobile Apps</code> using <code>React Native</code>. Also i have the goal<br>
+  to lauch as many websites as i can so i can monetize my skills.</strong>
+</li>
+<br>
+
+# **Social Media Links**
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_johnyz/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/notAllone0)
