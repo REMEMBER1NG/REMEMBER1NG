@@ -20,10 +20,6 @@ But **Python** was the first programming language that i just fell in love with 
 pretty weird right? 😜😂
 <br>
 
-# GitHub Analytics
-
-[![REMEMBER1NG's GitHub stats](https://github-readme-stats.vercel.app/api?username=REMEMBER1NG)](https://github.com/anuraghazra/github-readme-stats)
-
 # **Q: What are your goals for this 2022 year?**<br>
 <li><strong>My main goal for this year of 2022 is learn advanced javascript concepts<br>
   to help me to build <code>Mobile Apps</code> using <code>React Native</code>. Also i have the goal<br>
